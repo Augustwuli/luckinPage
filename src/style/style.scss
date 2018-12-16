@@ -1,0 +1,6 @@
+$res: "/image/";
+.use_bg_img{
+  width: 500px;
+  height: 500px;
+  background: url($res + 'favicon.ico') 0 0;
+}
